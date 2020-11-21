@@ -1,0 +1,3 @@
+IMAGE: resources\bg_blank.jpg
+LOCATION: 2450, 690
+FONT: arial.ttf, 60
